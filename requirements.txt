@@ -1,0 +1,7 @@
+gym==0.26.2
+gymnasium==0.28.1
+numpy==1.26.4
+pyautogen==0.2.28
+ray==2.24.0
+scipy==1.13.1
+torch==2.2.2
