@@ -1,6 +1,6 @@
 # :robot: InvAgent: A LLM-based Multi-Agent System for Inventory Management in Supply Chains
 
-InvAgent is a novel approach leveraging large language models (LLMs) to manage multi-agent inventory systems. It enhances resilience and improves efficiency across the supply chain network through zero-shot learning capabilities, enabling adaptive and informed decision-making without prior training.
+InvAgent is a novel approach leveraging large language models (LLMs) to manage multi-agent inventory systems. It enhances resilience and improves efficiency across the supply chain network through zero-shot learning capabilities, enabling adaptive and informed decision-making without prior training. For more detailed information, please check our paper.
 
 ## Installation
 
