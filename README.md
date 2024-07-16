@@ -32,14 +32,14 @@ InvAgent is a novel approach leveraging large language models (LLMs) to manage m
 
 ## Citation
 
-If you find this repository useful in your research, please consider citing the paper:
+If you find this repository useful in your research, please consider citing our paper:
 
 ```
 ```
 
 ## Contact Us
 
-For more information or any inquiries, please don't hesitate to contact  [yquan9@gatech.edu](mailto:yquan9@gatech.edu) or [liuzefang@gatech.edu](mailto:liuzefang@gatech.edu).
+For more information or any inquiries, please feel free to [raise an issue](https://github.com/zefang-liu/InvAgent/issues) or [contact us](mailto:yquan9@gatech.edu) directly.
 
 ## License
 
