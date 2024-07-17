@@ -35,6 +35,12 @@ InvAgent is a novel approach leveraging large language models (LLMs) to manage m
 If you find this repository useful in your research, please consider citing our paper:
 
 ```
+@article{quan2024invagent,
+  title={InvAgent: A Large Language Model based Multi-Agent System for Inventory Management in Supply Chains},
+  author={Quan, Yinzhu and Liu, Zefang},
+  journal={arXiv preprint arXiv:2407.11384},
+  year={2024}
+}
 ```
 
 ## Contact Us
