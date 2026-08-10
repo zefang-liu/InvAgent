@@ -1,3 +1,5 @@
+
+
 # :robot: InvAgent: A LLM-based Multi-Agent System for Inventory Management in Supply Chains
 
 InvAgent is a novel approach leveraging large language models (LLMs) to manage multi-agent inventory systems. It enhances resilience and improves efficiency across the supply chain network through zero-shot learning capabilities, enabling adaptive and informed decision-making without prior training. For more detailed information, please check our [paper](https://arxiv.org/abs/2407.11384).
@@ -28,7 +30,7 @@ InvAgent is a novel approach leveraging large language models (LLMs) to manage m
 - The main environment setup is found in `src/env.py`.
 - Configure the environment settings in `src/config.py`.
 - Implement custom inventory management policies in `src/baseline.py`.
-- For specific implementations of IPPO and MAPPO, refer to `src/ippo.py` and `src/mappo.py`, respectively.
+- For specific implementations of IPPO and MAPPO, refer to `src/ippo.py` and `src/mappo.py`. Run them with `python src/ippo.py` or `python src/mappo.py`.
 
 ## Citation
 
